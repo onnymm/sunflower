@@ -3,7 +3,7 @@ Gestor de conexión a bases de datos altamente personalizable.
 
 Instalación:
 ```bash
-pip install git+https://github.com/onnymm/lylac.git
+pip install git+https://github.com/onnymm/sunflower.git
 ```
 
 ## *Índice*
