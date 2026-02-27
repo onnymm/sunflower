@@ -1,0 +1,23 @@
+class FIELD_NAME:
+    ID = 'id'
+    NAME = 'name'
+    CREATE_DATE = 'create_date'
+    WRITE_DATE = 'write_date'
+    CREATE_UID = 'create_uid'
+    WRITE_UID = 'write_uid'
+    SEQUENCE = 'sequence'
+    USER_ID = 'user_id'
+    SYNC = 'sync'
+    ACTIVE = 'active'
+    DISPLAY_NAME = 'display_name'
+
+class FIELD_LABEL:
+    ID = 'ID'
+    NAME = 'Nombre'
+    CREATE_DATE = 'Fecha de creación'
+    WRITE_DATE = 'Fecha de modificación'
+    CREATE_UID = 'Creado por'
+    WRITE_UID = 'Modificado por'
+    SEQUENCE = 'Secuencia'
+    ACTIVE = 'Activo'
+    DISPLAY_NAME = 'Nombre visible'

@@ -1,0 +1,23 @@
+class ENV_VARIABLE_NAME():
+
+    class DATABASE:
+        HOST = 'LYLAC_HOST'
+        PORT = 'LYLAC_PORT'
+        DB_NAME = 'LYLAC_NAME'
+        USER = 'LYLAC_USER'
+        PASSWORD = 'LYLAC_PASSWORD'
+
+    class ROOT_USER:
+        LOGIN = 'LYLAC_INTERNAL_USER_LOGIN'
+        NAME = 'LYLAC_INTERNAL_USER_NAME'
+
+    class ADMIN_USER:
+        NAME = 'LYLAC_ADMIN_USER_NAME'
+        LOGIN = 'LYLAC_ADMIN_USER_LOGIN'
+        PASSWORD = 'LYLAC_ADMIN_USER_PASSWORD'
+
+    class CRYPT:
+        AUTH = 'CRYPT_KEY'
+
+    class DEFAULT:
+        PASSWORD = 'LYLAC_USER_DEFAULT_PASSWORD'
